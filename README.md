@@ -1,1 +1,3 @@
-##### 使用方法请查看我的个人博客[https://www.mvi-web.cn/library/15](https://www.mvi-web.cn/library/15)
+#### 一个 nodejs 端操作文件的工具库
+
+> 具体使用方法请参阅[fd-op](https://www.mvi-web.cn/library/fd-op)
